@@ -1,0 +1,13 @@
+body,html {
+    margin-top: 7%;
+    margin-left: 25%;
+}
+#count {
+    margin-left:15%;
+}
+#heading {
+    color:red;
+}
+button {
+    margin-left:3%;
+}
