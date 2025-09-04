@@ -11,9 +11,18 @@ button {
     border:2px solid;
     border-radius:5px;
     padding:15px;
-    margin-left:60px;
+    margin-left:8%;
 }
 img {
     width:250px;
     margin-top:35px;
+}
+.container {
+    margin-left:7%;
+}
+#flip {
+    background-color: rgb(17, 144, 23);
+    color:aliceblue;
+    padding:10px;
+    margin-left:70px;
 }
